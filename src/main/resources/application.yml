@@ -1,0 +1,9 @@
+# 应用名称
+spring:
+  application:
+    name: work
+server:
+  port: 8080
+  servlet:
+    context-path: /work
+
